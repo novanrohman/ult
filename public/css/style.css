@@ -1,0 +1,26 @@
+#pelayanan{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.bg-tertiary{
+    background: #f3f3f3;
+}
+
+
+/* .footer{
+    background-color: #1D72D7;
+} */
+
+#alamat{
+    margin-top: 15vh;
+}
+
+hr{
+    border: solid 0.4vh;
+    width: 8vw;
+    color: #0D6EFD;
+}
+label.error{
+    color: red;
+}
